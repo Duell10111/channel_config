@@ -1,8 +1,77 @@
 {
+	"ARD.de":{
+		"chid": 1
+	},
+	"ZDF.de":{
+		"chid": 2
+	},
+	"BR.de":{
+		"chid": 3
+	},
+	"Kika.de":{
+		"chid": 4
+	},
+	"RTL.de":{
+		"chid": 5
+	},
+	"Sat1.de":{
+		"chid": 6
+	},
+	"Pro7.de":{
+		"chid": 7
+	},
+	"Kabel.de":{
+		"chid": 8
+	},
+	"ProSiebenMaxx.de"{
+		"chid": 9
+	}
 	"3sat.de":{
 		"chid": 10
 	},
-	"AnimalPlanet.de":{
+	"Vox.de":{
 		"chid": 11
+	}
+	"Nickelodeon.de":{
+		"chid": 12
+	},
+	"Nickelodeon.ch":{
+		"chid": 13
+	},
+	"RTLNitro.de":{
+		"chid": 14
+	},
+	"SuperRTL.de":{
+		"chid": 15
+	},
+	"TOGGOplus.de":{
+		"chid": 16
+	},
+	"SRF1.ch":{
+		"chid": 17
+	},
+	"SRF2.ch":{
+		"chid": 18
+	},
+	"3plus.ch":{
+		"chid": 19
+	},
+	"4plus.ch":{
+		"chid": 20
+	},
+	"5plus.ch":{
+		"chid": 21
+	},
+	"TV24.ch":{
+		"chid": 22
+	},
+	"TV25.ch":{
+		"chid": 23
+	},
+	"Puls8.ch":{
+		"chid": 24
+	},
+	"AnimalPlanet.de":{
+		"chid": 30
 	}
 }
